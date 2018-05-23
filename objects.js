@@ -6,3 +6,7 @@ var playlist = {
 function updatePlaylist(list, artist, song) {
   list[artist] = song;
 }
+
+function removeFromPlaylist(list, artist) {
+  
+}
